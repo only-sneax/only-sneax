@@ -1,0 +1,4 @@
+- 👋 Ciao, sono sneax
+- 👀 Sono interessato a Informatica e CyberSicurezza
+- 🌱 Al momento sto imparando Java e C#
+- 📫 Come contattarmi tramite discord al Nick `sononiko`
